@@ -1,1 +1,20 @@
-<svg width="305" height="128" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="300" cy="5" r="5" transform="rotate(90 300 5)" fill="#F56A3F"/><circle cx="300" cy="64" r="5" transform="rotate(90 300 64)" fill="#F56A3F"/><circle cx="300" cy="123" r="5" transform="rotate(90 300 123)" fill="#F56A3F"/><circle cx="241" cy="5" r="5" transform="rotate(90 241 5)" fill="#F56A3F"/><circle cx="241" cy="64" r="5" transform="rotate(90 241 64)" fill="#F56A3F"/><circle cx="241" cy="123" r="5" transform="rotate(90 241 123)" fill="#F56A3F"/><circle cx="182" cy="5" r="5" transform="rotate(90 182 5)" fill="#F56A3F"/><circle cx="182" cy="64" r="5" transform="rotate(90 182 64)" fill="#F56A3F"/><circle cx="182" cy="123" r="5" transform="rotate(90 182 123)" fill="#F56A3F"/><circle cx="123" cy="5" r="5" transform="rotate(90 123 5)" fill="#F56A3F"/><circle cx="123" cy="64" r="5" transform="rotate(90 123 64)" fill="#F56A3F"/><circle cx="123" cy="123" r="5" transform="rotate(90 123 123)" fill="#F56A3F"/><circle cx="64" cy="5" r="5" transform="rotate(90 64 5)" fill="#F56A3F"/><circle cx="64" cy="64" r="5" transform="rotate(90 64 64)" fill="#F56A3F"/><circle cx="64" cy="123" r="5" transform="rotate(90 64 123)" fill="#F56A3F"/><circle cx="5" cy="5" r="5" transform="rotate(90 5 5)" fill="#F56A3F"/><circle cx="5" cy="64" r="5" transform="rotate(90 5 64)" fill="#F56A3F"/><circle cx="5" cy="123" r="5" transform="rotate(90 5 123)" fill="#F56A3F"/></svg>
+<svg width="305" height="128" viewBox="0 0 305 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="300" cy="5" r="5" transform="rotate(90 300 5)" fill="#F56A3F"/>
+<circle cx="300" cy="64" r="5" transform="rotate(90 300 64)" fill="#F56A3F"/>
+<circle cx="300" cy="123" r="5" transform="rotate(90 300 123)" fill="#F56A3F"/>
+<circle cx="241" cy="5" r="5" transform="rotate(90 241 5)" fill="#F56A3F"/>
+<circle cx="241" cy="64" r="5" transform="rotate(90 241 64)" fill="#F56A3F"/>
+<circle cx="241" cy="123" r="5" transform="rotate(90 241 123)" fill="#F56A3F"/>
+<circle cx="182" cy="5" r="5" transform="rotate(90 182 5)" fill="#F56A3F"/>
+<circle cx="182" cy="64" r="5" transform="rotate(90 182 64)" fill="#F56A3F"/>
+<circle cx="182" cy="123" r="5" transform="rotate(90 182 123)" fill="#F56A3F"/>
+<circle cx="123" cy="5" r="5" transform="rotate(90 123 5)" fill="#F56A3F"/>
+<circle cx="123" cy="64" r="5" transform="rotate(90 123 64)" fill="#F56A3F"/>
+<circle cx="123" cy="123" r="5" transform="rotate(90 123 123)" fill="#F56A3F"/>
+<circle cx="64" cy="5" r="5" transform="rotate(90 64 5)" fill="#F56A3F"/>
+<circle cx="64" cy="64" r="5" transform="rotate(90 64 64)" fill="#F56A3F"/>
+<circle cx="64" cy="123" r="5" transform="rotate(90 64 123)" fill="#F56A3F"/>
+<circle cx="5" cy="5" r="5" transform="rotate(90 5 5)" fill="#F56A3F"/>
+<circle cx="5" cy="64" r="5" transform="rotate(90 5 64)" fill="#F56A3F"/>
+<circle cx="5" cy="123" r="5" transform="rotate(90 5 123)" fill="#F56A3F"/>
+</svg>
